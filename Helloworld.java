@@ -5,6 +5,7 @@ public class Helloworld {
 		Scanner sc=new Scanner(System.in);
 		int num=sc.nextInt();
 		System.out.print("hello world");
+		System.out.print("some thing new");
 		
 	}
 
